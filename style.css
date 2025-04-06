@@ -1,0 +1,209 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+body {
+  background: #121212;
+}
+
+.introduction {
+  align-content: center;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  padding-top: 15px;
+}
+
+.introduction p {
+  color: lightgray;
+  margin-bottom: 25px;
+}
+
+.logo {
+  text-align: center;
+  border-radius: 25px;
+  box-shadow: 0 4px 8px darkgray;
+  margin-bottom: 25px;
+}
+
+.intro-title {
+  color: white;
+  font-size: 45px;
+}
+
+.address-bar {
+  display: column;
+  background: dimgray;
+  border-radius: 10px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin: 5px;
+}
+
+.ip {
+  color: white;
+}
+
+.address-ip {
+  color: lightgray;
+  font-size: 20px;
+  padding: 5px;
+}
+
+.rate-bar {
+  display: column;
+  padding: 15px auto;
+  background: dimgray;
+  border-radius: 10px;
+  text-align: center;
+  justify-content: center;
+  margin: 5px;
+}
+
+.rate {
+  color: white;
+}
+
+.stars {
+  color: lightgray;
+  font-size: 20px;
+  padding: 5px;
+}
+
+.store {
+  margin: 15px;
+  margin-top: 60px;
+  padding-top: 30px;
+  border-radius: 10px;
+  background-image: url("background1.png");
+  padding-bottom: 150px;
+  color: black;
+  text-align: left;
+}
+
+.store h3 {
+  font-weight: bold;
+  font-size: 35px;
+  padding-top: 10px;
+  padding-left: 20px;
+}
+
+.store p {
+  color: black;
+  padding-left: 30px;
+}
+
+.stats {
+  margin: 15px;
+  margin-top: 60px;
+  border-radius: 10px;
+  background-image: url("background1.png");
+  padding-bottom: 150px;
+  color: black;
+  text-align: left;
+}
+
+.stats h3 {
+  font-weight: bold;
+  font-size: 35px;
+  padding-top: 10px;
+  padding-left: 20px;
+}
+
+.stats p {
+  color: black;
+  padding-left: 30px;
+}
+
+.faq {
+  margin: 15px;
+  margin-top: 60px;
+  border-radius: 10px;
+  background-image: url("background1.png");
+  padding-bottom: 150px;
+  color: black;
+  text-align: left;
+}
+
+.faq h3 {
+  font-weight: bold;
+  font-size: 35px;
+  padding-top: 10px;
+  padding-left: 20px;
+}
+
+.faq p {
+  color: black;
+  padding-left: 30px;
+}
+
+.tutorials {
+  margin: 15px;
+  margin-top: 60px;
+  border-radius: 10px;
+  background-image: url("background1.png");
+  padding-bottom: 150px;
+  color: black;
+  text-align: left;
+}
+
+.tutorials h3 {
+  font-weight: bold;
+  font-size: 35px;
+  padding-top: 10px;
+  padding-left: 20px;
+}
+
+.tutorials p {
+  color: black;
+  padding-left: 30px;
+}
+
+.footer {
+  width: 100%;
+  background: dimgray;
+  text-align: center;
+  color: white;
+  padding: 15px 0;
+  margin-top: 50px;
+}
+
+.footer-info {
+  padding: 15px;
+}
+
+.footer-info h3 {
+  font-size: 25px;
+}
+
+.footer-info p {
+  color: lightgray;
+}
+
+
+.footer-buttons {
+  padding: 15px;
+  text-decoration: none;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  list-style: none;
+}
+
+.footer-button {
+  color: darkorange;
+  font-weight: bold;
+  padding: 10px;
+  margin: 15px 0;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.copyright {
+  font-size: 15px;
+  margin-top: 10px;
+  color: lightgray;
+}
